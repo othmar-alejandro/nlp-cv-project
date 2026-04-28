@@ -1,0 +1,36 @@
+# Secrets — NEVER commit
+.env
+.env.local
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artefacts (used to generate the report PDF, not part of the deliverable)
+home-estimator/report/.cover.html
+home-estimator/report/.report_style.css
+
+# Streamlit
+.streamlit/secrets.toml

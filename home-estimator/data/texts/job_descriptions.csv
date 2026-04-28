@@ -1,0 +1,358 @@
+text,category,urgency,scope
+"Small drip under the kitchen sink, been going on for a couple days. Just a slow leak near the P-trap connection.",plumbing,low,small
+"Need to replace the kitchen faucet, it's old and starting to corrode. Want something modern.",plumbing,low,medium
+Looking to repipe the whole bathroom with copper. Currently have old galvanized pipes that are rusting.,plumbing,low,large
+The toilet keeps running after flushing. I've tried jiggling the handle but it won't stop.,plumbing,low,small
+Want to install a new garbage disposal and connect it to the existing plumbing.,plumbing,low,medium
+Planning a full bathroom remodel and need all new plumbing fixtures installed.,plumbing,low,large
+Shower head is leaking where it connects to the pipe. Probably just needs a new washer.,plumbing,low,small
+"Need to replace the water heater, current one is 15 years old and not heating well.",plumbing,low,large
+"Bathroom sink drains very slowly, probably a clog somewhere in the line.",plumbing,low,small
+"Want to add a utility sink in the laundry room, need water lines run to it.",plumbing,low,medium
+Noticed a wet spot on the ceiling below the upstairs bathroom. Something is leaking.,plumbing,medium,small
+The water pressure has dropped significantly in the last week. Multiple faucets affected.,plumbing,medium,medium
+Found water pooling in the basement near the water main. Not sure where it's coming from.,plumbing,medium,medium
+Pipe under the bathroom sink is corroded and dripping steadily. Getting worse each day.,plumbing,medium,small
+Sewer smell coming from the basement drain. Getting stronger over the past few days.,plumbing,medium,medium
+Multiple fixtures are backing up. Toilets and sinks gurgling when others are used.,plumbing,medium,large
+Hot water is coming out rusty brown. Water heater might be failing.,plumbing,medium,medium
+The shutoff valve under the sink is stuck and leaking when I try to turn it.,plumbing,medium,small
+Need emergency repair of a section of copper pipe that has a pinhole leak spraying water.,plumbing,medium,medium
+Toilet is leaking at the base when flushed. Water pooling on the floor each time.,plumbing,medium,small
+Pipe burst in the wall and water is spraying everywhere! Need help NOW.,plumbing,high,medium
+Water is flooding the basement from a broken pipe. Can't find the shutoff valve.,plumbing,high,large
+The water heater is leaking badly and there's water all over the garage floor.,plumbing,high,medium
+Sewage is backing up into the bathtub. Horrible smell and it won't drain.,plumbing,high,medium
+Frozen pipe just burst in the crawl space. Water is running everywhere under the house.,plumbing,high,large
+"Major leak from the ceiling, water is pouring down. Something burst upstairs.",plumbing,high,medium
+Gas smell near the water heater. I turned off the gas but need someone immediately.,plumbing,emergency,medium
+"Main water line burst in the yard, water is gushing out and flooding the driveway.",plumbing,emergency,large
+Sewage is overflowing from the main cleanout in the front yard. Raw sewage everywhere.,plumbing,emergency,large
+"Pipe burst at 2 AM, water everywhere, soaking through the floors into the basement.",plumbing,emergency,large
+Water shooting from the wall where the washing machine connects. Can't stop it.,plumbing,emergency,medium
+"Slab leak detected, water bill tripled and there's a warm spot on the floor.",plumbing,emergency,large
+Need to touch up some paint scuffs on the hallway walls. Just a few spots.,painting,low,small
+Want to paint an accent wall in the living room. About 12 feet wide.,painting,low,small
+Looking to repaint the master bedroom. Walls are about 400 square feet total.,painting,low,medium
+"Need the whole interior of the house painted. About 2000 square feet, 8 rooms.",painting,low,large
+Want to paint the front door and trim. Need it to look professional.,painting,low,small
+"Kitchen cabinets need repainting. They're solid wood and currently white, want to go gray.",painting,low,medium
+"Full exterior house painting needed. Two-story colonial, about 2500 square feet.",painting,low,large
+Need the ceiling painted in the living room. There are some water stains to cover.,painting,low,medium
+Deck needs staining and sealing. About 300 square feet of deck surface.,painting,low,medium
+Want to paint the garage floor with epoxy coating. Two-car garage.,painting,low,large
+There's a water stain on the bedroom ceiling that needs to be sealed and repainted.,painting,medium,small
+Paint is peeling badly on the south-facing exterior wall. Needs scraping and repainting.,painting,medium,medium
+Ceiling has cracks and the paint is bubbling in the bathroom. Might be moisture issue.,painting,medium,small
+Several rooms have smoke damage on the walls and ceiling from a small kitchen fire.,painting,medium,large
+Exterior trim paint is cracking and flaking. Wood might be exposed to weather.,painting,medium,medium
+Mold stains showing through the paint in the bathroom. Needs proper treatment and repaint.,painting,medium,small
+Recent roof leak caused water damage on two bedroom ceilings. Need repair and repaint.,painting,medium,medium
+"Peeling lead paint in an older home. Has a child living here, need it addressed safely.",painting,high,medium
+Fire damage to the kitchen walls and ceiling. Need full restoration painting.,painting,high,large
+Extensive water damage across multiple rooms from a burst pipe. Walls are stained and bubbling.,painting,high,large
+Graffiti on the exterior of the business. Need it removed or covered ASAP.,painting,high,small
+Storm ripped siding and paint off one side of the house. Exposed wood needs protection.,painting,high,medium
+Missing a few shingles on the back side of the roof. Can see them in the yard after the wind.,roofing,low,small
+Gutters are clogged and pulling away from the fascia board. Need cleaning and reattachment.,roofing,low,small
+Looking to get the whole roof replaced. It's 20 years old and the shingles are curling.,roofing,low,large
+Want to add a skylight to the master bathroom. Roof is in good shape otherwise.,roofing,low,medium
+Need the flashing around the chimney replaced. It's old and starting to lift.,roofing,low,medium
+Planning to install solar panels and need the roof inspected and any repairs done first.,roofing,low,large
+A few ridge cap shingles blew off. Can see the ridge vent underneath.,roofing,low,small
+Want to install new gutter guards on the whole house. About 150 linear feet.,roofing,low,medium
+"Roof is about 15 years old, want a professional inspection to see how much life is left.",roofing,low,small
+Need soffit and fascia replaced on one side of the house. Some wood rot visible.,roofing,low,medium
+There's a small leak in the corner of the bedroom ceiling when it rains hard.,roofing,medium,small
+Several shingles are damaged and there are granules in the gutters. Roof is deteriorating.,roofing,medium,medium
+Noticed daylight coming through the attic roof boards in one area. Sheathing might be damaged.,roofing,medium,medium
+Flashing around the vent pipes is cracked and I can see daylight. Starting to leak.,roofing,medium,small
+Storm took off a section of shingles about 10x10 feet. Underlayment is exposed.,roofing,medium,medium
+Ice dam formed on the edge of the roof and water is seeping into the attic.,roofing,medium,medium
+Multiple leaks appearing in different rooms. Roof is clearly failing in several spots.,roofing,medium,large
+The roof is sagging in one area near the center of the house. Very concerning.,roofing,high,large
+"Major storm damage, large section of shingles missing, rain is coming in through multiple spots.",roofing,high,large
+Tree branch fell on the roof and punctured through to the attic. Hole is about 3 feet wide.,roofing,high,medium
+Roof is actively leaking in a downpour right now. Water streaming in through the ceiling.,roofing,high,medium
+Half the roof was damaged in a hailstorm. Insurance adjuster is coming but need temporary fix.,roofing,high,large
+Tree fell on the roof and collapsed part of the structure. Cannot stay in the house.,roofing,emergency,large
+"Tornado damage to the roof, massive sections missing. Need emergency tarping immediately.",roofing,emergency,large
+Need to replace a couple of electrical outlets that are old and not grounding properly.,electrical,low,small
+Want to install a ceiling fan in the bedroom. There's already a light fixture there.,electrical,low,small
+Looking to add recessed lighting in the kitchen. Want about 6 can lights.,electrical,low,medium
+Need to upgrade the electrical panel from 100 amp to 200 amp for the whole house.,electrical,low,large
+Want to install an EV charger in the garage. Need a dedicated 240V circuit.,electrical,low,medium
+Planning to add outdoor landscape lighting around the yard. About 12 fixtures.,electrical,low,medium
+Need to install a whole-house generator with automatic transfer switch.,electrical,low,large
+Want to add a couple of outlets in the home office. Currently not enough.,electrical,low,small
+Need to replace old two-prong outlets with modern three-prong GFCI outlets in the kitchen and bath.,electrical,low,medium
+Want smart switches installed throughout the house. About 15 switches total.,electrical,low,large
+One outlet in the kitchen sparks when I plug something in. Stopped using it.,electrical,medium,small
+"The lights in the living room flicker intermittently. Tried changing bulbs, still happening.",electrical,medium,small
+Circuit breaker keeps tripping for the kitchen circuit. Happens when multiple appliances are on.,electrical,medium,medium
+Found some exposed wiring in the attic that looks like it might be damaged. Insulation is touching it.,electrical,medium,medium
+The GFCI outlet in the bathroom won't reset. Tried the test/reset buttons multiple times.,electrical,medium,small
+Several outlets in the house stopped working after a storm. Breakers didn't trip.,electrical,medium,medium
+Old knob-and-tube wiring found in parts of the house. Need assessment and possible upgrade.,electrical,medium,large
+Burn marks around one of the outlets. Smells slightly burnt but no fire.,electrical,high,small
+Half the house lost power but the breaker panel looks fine. Something is wrong with the wiring.,electrical,high,medium
+Hearing buzzing from inside the wall near an outlet. Smell of burning plastic.,electrical,high,small
+The electrical panel is making crackling noises and one breaker is hot to the touch.,electrical,high,medium
+Exposed live wire found in the basement where kids play. Need immediate fix.,electrical,high,small
+"Electrical fire started in an outlet, put it out but need the whole circuit inspected.",electrical,emergency,medium
+Power line came down in the yard and is still live. Sparking near the house.,electrical,emergency,large
+Burning smell from the electrical panel with visible smoke. Turned off main breaker.,electrical,emergency,medium
+AC isn't cooling as well as it used to. Still runs but house doesn't get below 78.,hvac,low,small
+Want to replace the thermostat with a smart thermostat. Currently have an old dial type.,hvac,low,small
+Need the annual maintenance done on the furnace before winter. Last serviced 2 years ago.,hvac,low,medium
+Looking to replace the entire HVAC system. Current one is 18 years old.,hvac,low,large
+Want to add ductwork to the finished basement. Currently no vents down there.,hvac,low,large
+"Need the air ducts cleaned. Haven't been done in 5+ years, lots of dust.",hvac,low,medium
+Want to install a mini-split AC unit in the garage workshop.,hvac,low,medium
+The air filter needs changing and I can't figure out how to access it in my unit.,hvac,low,small
+Looking to add a humidifier to the furnace for the dry winter months.,hvac,low,small
+Want to replace all the vent covers in the house with new ones. About 12 vents.,hvac,low,small
+The furnace is making a loud banging noise when it starts up. Gets worse each time.,hvac,medium,small
+AC unit outside is making a grinding noise and not cooling efficiently.,hvac,medium,small
+There's ice forming on the AC refrigerant lines outside. System isn't cooling right.,hvac,medium,medium
+Noticed a musty smell from the vents when the AC runs. Might be mold in the ducts.,hvac,medium,medium
+The heat pump isn't switching between heating and cooling modes properly.,hvac,medium,medium
+Furnace is short cycling - turns on for a few minutes then shuts off repeatedly.,hvac,medium,small
+Ductwork in the attic is disconnected in one section. One room gets no airflow.,hvac,medium,medium
+Uneven temperatures throughout the house. Some rooms are 10 degrees different.,hvac,medium,large
+The AC completely stopped working in the middle of summer. House is 90 degrees inside.,hvac,high,medium
+Furnace won't turn on at all. It's 20 degrees outside and getting cold fast inside.,hvac,high,medium
+Carbon monoxide detector went off near the furnace. Opened windows and left the house.,hvac,emergency,large
+Furnace is making loud popping sounds and there's a burning smell. Turned it off.,hvac,high,medium
+AC compressor is completely dead. It's a heat wave and we have elderly family members.,hvac,high,medium
+Gas smell near the furnace. Turned off gas and evacuated. Need emergency inspection.,hvac,emergency,medium
+The squeaky front door is driving me crazy. Hinges need attention.,general_repair,low,small
+There's a small hole in the drywall from moving furniture. About fist-sized.,general_repair,low,small
+Several doors in the house don't close properly. They stick or won't latch.,general_repair,low,medium
+The deck boards are warping and some are starting to crack. About 200 sq ft deck.,general_repair,low,large
+Need to replace the weather stripping around the front door. Cold air is coming in.,general_repair,low,small
+Want to install new shelving in the garage. About 20 feet of wall-mounted shelves.,general_repair,low,medium
+Fence has several broken pickets and one leaning post. About 50 feet of fence.,general_repair,low,medium
+Need to patch and repair several nail holes in the walls before moving out.,general_repair,low,small
+The bathroom caulk around the tub is cracking and starting to mold. Needs redoing.,general_repair,low,small
+Looking to replace all the interior door handles. About 10 doors.,general_repair,low,medium
+Want to rebuild the back deck completely. Current one is rotting. About 300 sq ft.,general_repair,low,large
+"Need to replace the mailbox post, it's rotting at the base and leaning over.",general_repair,low,small
+"Window won't stay open, the balance spring is broken. Second floor bedroom.",general_repair,medium,small
+"There's a crack in the foundation wall in the basement. About 3 feet long, hairline width.",general_repair,medium,medium
+The back door frame is damaged and the door doesn't seal properly anymore.,general_repair,medium,small
+Railing on the front steps is loose and wobbly. Safety concern with elderly parents visiting.,general_repair,medium,small
+Bathroom floor tiles are cracking and one is loose. Might be water damage underneath.,general_repair,medium,medium
+Siding on one side of the house is warping and pulling away. About 100 sq ft affected.,general_repair,medium,medium
+The garage door opener stopped working and the door is stuck halfway open.,general_repair,medium,medium
+Multiple windows have broken seals - foggy between the panes. About 5 windows.,general_repair,medium,large
+Gutter fell off during the storm and damaged the fascia board underneath.,general_repair,medium,medium
+Front porch steps are crumbling and the railing is barely attached. Someone could fall.,general_repair,high,medium
+Large tree branch cracked and is hanging over the house. Could fall any time.,general_repair,high,large
+The basement is flooding through a crack in the wall during heavy rain right now.,general_repair,high,medium
+Deck railing collapsed. Dangerous drop-off of about 8 feet. Blocked off the area.,general_repair,high,medium
+Window was broken by a storm and rain is coming in. Need emergency board-up.,general_repair,high,small
+Storm knocked down a large section of fence and it's blocking the sidewalk.,general_repair,high,medium
+Front door lock is broken and won't secure. Can't lock the house.,general_repair,high,small
+Ceiling is sagging in the living room. Looks like it could collapse.,general_repair,emergency,large
+Floor is buckling and heaving in the kitchen. Something is pushing up from below.,general_repair,emergency,medium
+Just noticed a major crack running across the ceiling and down the wall. House is settling badly.,general_repair,emergency,large
+The kitchen faucet has been dripping for about a week. Not too bad but getting worse. I think it might need a new cartridge or washer. The faucet is a single handle Moen model.,plumbing,low,small
+"We're renovating the master bathroom and need all new plumbing installed. New vanity with double sinks, new shower with body jets, new toilet, and possibly relocating the drain for a freestanding tub.",plumbing,low,large
+I have low water pressure throughout the house. It's been gradually getting worse over the past few months. We have an older home built in the 1960s with what I think are galvanized pipes.,plumbing,medium,large
+There's a sewer backup in the basement floor drain. Dirty water keeps coming up whenever we use water upstairs. It started yesterday and is getting worse. Really bad smell too.,plumbing,high,medium
+The entire first floor of our house is flooding from a broken water main connection. Water is everywhere and we can't find the shutoff. We need someone here immediately.,plumbing,emergency,large
+"I want to freshen up the nursery before the baby arrives. It's a small 10x10 room, just need the walls done in a light yellow. Ceilings are fine.",painting,low,small
+"Our whole house interior needs painting. It's about 2500 sq ft, 4 bedrooms, living room, dining room, kitchen, and two bathrooms. Walls and ceilings. We'd like a modern neutral palette.",painting,low,large
+"After the bathroom leak was fixed, the ceiling has a large brown water stain about 2 feet across. The drywall feels soft in one spot too. Needs repair and repainting.",painting,medium,medium
+"We had a grease fire in the kitchen that was quickly contained but left smoke and soot damage on the walls and ceiling. The whole kitchen needs to be cleaned, primed, and repainted.",painting,high,medium
+I noticed about 5-6 shingles missing from the back slope of the roof. You can see the bare underlayment from the ground. We had some high winds last week.,roofing,low,small
+Our roof is 22 years old with three-tab asphalt shingles. They're curling and losing granules everywhere. Ready for a full replacement. House is a single-story ranch about 1800 sq ft.,roofing,low,large
+There's an active leak in the master bedroom when it rains. I can see a water stain growing on the ceiling. I went in the attic and can see daylight through a small gap near a pipe boot.,roofing,medium,small
+A large oak tree fell on our roof during last night's storm. It punched through the roof into the attic. We can see sky from inside. Rain is forecast for tomorrow.,roofing,emergency,large
+I need a new GFCI outlet installed in the bathroom. The old one stopped working and won't reset no matter what I try.,electrical,low,small
+"We want to finish our basement and need about 8 new outlets, 4 recessed lights, and a dedicated circuit for a home theater system.",electrical,low,large
+The lights in the hallway and living room dim noticeably when the AC kicks on. It's been doing this all summer and seems to be getting worse.,electrical,medium,medium
+I can smell something burning near the electrical panel in the basement. One of the breakers feels warm to the touch and there are slight scorch marks on the panel cover.,electrical,emergency,medium
+The AC is running but the air coming out of the vents is warm. It was fine yesterday. The outdoor unit seems to be running normally.,hvac,medium,small
+We want to replace our 15-year-old gas furnace and AC system. The furnace has been making noise and the AC had two repairs last year. House is about 2000 sq ft two-story.,hvac,low,large
+Our furnace completely died last night. It's January and 15 degrees outside. The house is down to 50 degrees and dropping. We have two young children.,hvac,emergency,medium
+"I need some help with various things around the house. Couple of doors that don't close right, some nail holes to patch, a wobbly ceiling fan, and the kitchen drawer track is broken.",general_repair,low,medium
+"The wooden deck railing is rotting and the whole section wobbles badly when you lean on it. It's on the second floor deck, about 8 feet above ground. Very dangerous.",general_repair,high,medium
+There's water coming through the basement wall during heavy rain. A horizontal crack about 6 feet long is letting water seep through. It's actively raining now and the basement is getting wet.,general_repair,high,large
+My water heater is leaking from the bottom and there's standing water around it. It's making popping and hissing sounds I've never heard before.,plumbing,high,medium
+The bathroom exhaust fan stopped working. Want to replace it with a quieter model that also has a light.,electrical,low,small
+Need to install a transfer switch and hookup for a portable generator. Want it ready before hurricane season.,electrical,low,medium
+Our flat roof has ponding water that won't drain. It's been sitting there for weeks after the last rain.,roofing,medium,medium
+The stucco on the exterior is cracking and pieces are falling off. Can see the wire mesh underneath in some spots.,painting,medium,medium
+Want to paint the exterior trim and shutters. Two-story house with about 20 windows and a front porch.,painting,low,medium
+The dishwasher drain line is clogged and water backs up into the kitchen sink whenever the dishwasher runs.,plumbing,medium,small
+Central AC makes a horrible screeching sound then shuts off. Happens every time it tries to start.,hvac,high,small
+Need the dryer vent cleaned and possibly rerouted. It's currently going about 25 feet through the attic.,hvac,low,medium
+The crawl space has standing water and a musty smell. Not sure if it's plumbing or groundwater.,plumbing,medium,large
+Just moved in and want all the locks rekeyed. 3 exterior doors and the garage entry door.,general_repair,low,small
+The vinyl siding has several cracked and missing pieces from the last hailstorm. About 15-20 pieces need replacement on the north side.,general_repair,medium,medium
+"We need to childproof the house. Need outlet covers, cabinet locks, stair gates, and corner guards installed throughout.",general_repair,low,medium
+There's a constant humming vibration in the walls at night. Can't tell if it's electrical or plumbing related.,electrical,medium,small
+The sump pump in the basement isn't turning on. Heavy rain is forecast for the next 3 days.,plumbing,high,medium
+"Want to convert the attic into a livable space. Need electrical outlets, lighting, and HVAC extended up there.",electrical,low,large
+Bathroom fan is venting into the attic instead of outside. There's moisture and possible mold forming on the roof sheathing.,hvac,medium,medium
+The thermostat reads 72 but it feels like 60 in the house. System runs constantly but never reaches temperature.,hvac,medium,medium
+One room in the house is always 10+ degrees colder than the rest. The vent blows barely any air.,hvac,medium,small
+Need the popcorn ceiling removed and smoothed in the living room and dining room. Combined about 500 sq ft.,painting,low,large
+The wallpaper in the bathroom is peeling off from moisture. Want it removed and the walls painted instead.,painting,medium,medium
+Paint is peeling on the exterior window sills and some wood looks soft. Might have wood rot.,painting,medium,medium
+"Want to add a bathroom in the basement. Need all rough-in plumbing for toilet, sink, and shower.",plumbing,low,large
+The outdoor spigot is leaking from the handle and also from where it goes into the wall.,plumbing,low,small
+Kitchen sink is completely clogged. Tried plunger and drain cleaner with no luck. Water won't go down at all.,plumbing,medium,small
+Noticed a bulge in the roof line from the ground. Looks like the decking might be sagging between rafters.,roofing,medium,medium
+Want to add a metal roof over the existing shingle roof. House is about 1600 sq ft footprint.,roofing,low,large
+Chimney flashing is completely rusted through. Can see gaps between the flashing and the chimney brick.,roofing,medium,small
+Want to upgrade all the lighting in the house to LED recessed lighting. About 20 fixtures total across 6 rooms.,electrical,low,large
+"Power keeps flickering during normal weather. Not storms, just random. Happens a few times a week.",electrical,medium,medium
+Need a 240V outlet installed in the garage for a welder. Panel is on the opposite side of the house.,electrical,low,medium
+The furnace ignitor clicks but the burner won't light. Furnace tries 3 times then locks out.,hvac,medium,small
+Ductwork in the crawl space is completely falling apart. Insulation is hanging off and there are big gaps.,hvac,medium,large
+Want to add a wood-burning fireplace insert into the existing masonry fireplace. Need proper venting.,hvac,low,large
+Back door won't lock properly. The deadbolt doesn't line up with the strike plate anymore.,general_repair,medium,small
+"The retaining wall in the backyard is leaning and some blocks have fallen out. About 30 feet long, 4 feet tall.",general_repair,high,large
+Bathroom floor is spongy and soft near the toilet. Worried there's water damage or rot underneath.,general_repair,medium,medium
+Storm door glass shattered. Need replacement. It's the front door so security is a concern.,general_repair,high,small
+The concrete front steps are crumbling and have large cracks. Three steps plus a small landing.,general_repair,medium,medium
+Water pooling in the yard near the foundation after every rain. Grading seems wrong.,general_repair,medium,large
+Sliding glass door is off its track and won't close all the way. Can feel cold air coming in.,general_repair,medium,small
+Need to install grab bars in the bathroom for elderly parent. Shower and next to toilet.,general_repair,low,small
+The attic access panel doesn't close properly and you can feel hot air coming down from the attic.,general_repair,low,small
+Large crack appeared in the drywall going from the corner of the window to the ceiling. Appeared suddenly.,general_repair,medium,medium
+Minor drip from the bathtub faucet. Only when it's in the shower position. Been like this for a month.,plumbing,low,small
+Need to replace the main sewer line from the house to the street. Tree roots have completely blocked it.,plumbing,medium,large
+Tankless water heater is displaying an error code and not producing hot water.,plumbing,medium,medium
+Looking to install a water softener system. We have very hard water and it's damaging fixtures.,plumbing,low,medium
+Both toilets in the house are wobbling and not secured to the floor properly.,plumbing,low,small
+The slab foundation has a leak somewhere. Water bill went from $50 to $200 with no usage change.,plumbing,high,large
+"Want to paint the living room and dining room. Open concept, about 600 sq ft of wall space. Currently dark red, want to go light gray.",painting,low,medium
+Exterior brick needs repointing and then the mortar joints need to be color matched and sealed.,painting,medium,large
+The garage interior walls are unpainted drywall. Want them finished and painted white.,painting,low,medium
+There's black mold visible on the ceiling in the basement. The paint is bubbling and flaking around it.,painting,high,medium
+"Need the nursery painted by next weekend. 10x12 room, want a custom two-tone design with a chair rail.",painting,low,small
+Wind blew off about 15 shingles from the ridge line. Can see the wood decking exposed.,roofing,medium,medium
+The flat section of the roof where the addition meets the original house always leaks. Had it patched twice.,roofing,medium,medium
+Moss and algae growing all over the north side of the roof. Shingles look deteriorated under it.,roofing,low,medium
+Satellite dish installer damaged some shingles. Now there's a small leak near where the dish is mounted.,roofing,medium,small
+One of the recessed lights in the bathroom keeps flickering and occasionally smells like burning.,electrical,high,small
+The garage has no electrical outlets on one wall. Need at least 3 outlets added on a new circuit.,electrical,low,medium
+We keep blowing fuses in the old fuse box. Need to upgrade to a modern breaker panel.,electrical,medium,large
+Lightning struck near the house and now several outlets and the doorbell don't work.,electrical,high,medium
+Outdoor motion sensor lights won't turn off. They stay on 24/7 no matter the settings.,electrical,low,small
+The mini split in the bedroom is leaking water down the wall. Drain line might be clogged.,hvac,medium,small
+Central air conditioner runs for about 5 minutes then the outdoor unit shuts off. Inside fan keeps running.,hvac,medium,medium
+Want to install radiant floor heating in the master bathroom during our remodel.,hvac,low,medium
+Window AC unit sparked and started smoking. Unplugged it immediately. Burn mark on the wall.,hvac,emergency,small
+The return air vent makes a loud whistling noise. Drives everyone crazy.,hvac,low,small
+Dishwasher is leaking from the bottom every time it runs. Pool of water on the kitchen floor after each cycle.,general_repair,medium,small
+"The whole house needs weatherproofing. Drafty windows, gaps in doors, and the attic needs more insulation.",general_repair,low,large
+Termite damage found in the garage wall framing. Some studs are eaten through.,general_repair,high,large
+"Need to install a doggy door in the back door. Have a large dog, about 80 pounds.",general_repair,low,small
+The wrought iron railing on the front steps is rusting through and pulling away from the concrete.,general_repair,medium,medium
+Ceiling fan is wobbling badly and making a clicking noise. It's in the living room with high ceilings.,general_repair,low,small
+The toilet flange is broken and the toilet rocks back and forth. Can smell sewer gas.,plumbing,medium,small
+Need a new outdoor shower installed by the pool. Hot and cold water with proper drainage.,plumbing,low,medium
+Pipe insulation in the attic is old and falling off. Want to reinsulate before winter.,plumbing,low,medium
+Water hammer banging every time we turn off a faucet. Loud banging in the walls.,plumbing,medium,small
+The whole-house water filter system needs replacing. Current one is outdated and not filtering properly.,plumbing,low,medium
+Need to paint the exterior of our rental property before new tenants move in next month. Standard 3-bed ranch.,painting,low,large
+Ceiling has been patched from old recessed light removal. Need texture matching and paint.,painting,low,small
+The stairway walls are scuffed and marked up from years of use. Need cleaning and a fresh coat.,painting,low,medium
+Industrial painting needed for a small warehouse space. About 3000 sq ft of walls and ceiling. Concrete block.,painting,low,large
+"After the drywall repair, need the patches blended with the existing wall texture and painted to match.",painting,low,small
+The roof valleys are clogged with debris and the metal flashing is corroding. Water overflows during heavy rain.,roofing,medium,medium
+Want to install a green roof or living roof on the flat section of our house. About 400 sq ft.,roofing,low,large
+Bathroom vent fan duct boot on the roof is cracked and leaking. Can see it from the attic.,roofing,medium,small
+The rubber membrane on our flat commercial roof is tearing in multiple spots.,roofing,medium,large
+Solar panel mounting brackets are causing leaks around the bolt penetrations on the roof.,roofing,medium,medium
+Need a whole-house surge protector installed at the main panel.,electrical,low,small
+The hot tub we just bought needs a dedicated 50-amp GFCI circuit run from the panel to the patio.,electrical,low,medium
+Old aluminum wiring throughout the house. Insurance company is requiring it be addressed.,electrical,medium,large
+The bathroom exhaust fan/light combo is hardwired and the switch controls both. Want them separated.,electrical,low,small
+"Smart home project - need to install a smart panel, smart switches, and pre-wire for security cameras. 6 cameras.",electrical,low,large
+Zone 2 of the HVAC system isn't working. The damper seems stuck closed. Upstairs is freezing.,hvac,medium,medium
+The condensate drain pan under the air handler is full and about to overflow. Water dripping everywhere.,hvac,high,medium
+Want to replace window AC units with a multi-zone ductless mini split system. 4 zones needed.,hvac,low,large
+The heat pump makes a loud grinding noise when switching to defrost mode.,hvac,medium,small
+Commercial kitchen hood vent isn't exhausting properly. Failed health inspection.,hvac,high,large
+"Need to install a pet door, repair the fence gate that won't latch, and fix the motion sensor light.",general_repair,low,medium
+The brick veneer on the front of the house is separating from the wall. Can see gaps growing.,general_repair,high,large
+Hardwood floor has several deep scratches and one board is coming up. About 100 sq ft area affected.,general_repair,medium,medium
+The screen porch has several torn screens and the door doesn't close properly.,general_repair,low,medium
+Need to mount a 75-inch TV on the wall with hidden wiring and install floating shelves below.,general_repair,low,small
+The bathroom subfloor is rotted around the toilet and tub. Floor is sinking when you step near the toilet.,general_repair,high,medium
+French doors won't close or lock properly. The frame seems to have shifted or warped.,general_repair,medium,medium
+The hot water recirculating pump is making a grinding noise and the hot water takes forever now.,plumbing,medium,small
+Want to install a rain barrel collection system connected to the downspouts. 3 barrels total.,plumbing,low,medium
+The pressure relief valve on the water heater is constantly dripping and there's mineral buildup.,plumbing,medium,small
+All the faucets in the house need updating. 3 bathrooms plus the kitchen. Want modern fixtures.,plumbing,low,large
+Raw sewage smell in the guest bathroom that hasn't been used in months. P-trap might be dry or there's a bigger issue.,plumbing,medium,small
+Need the pool plumbing repaired. There's a leak in the return line somewhere underground.,plumbing,medium,large
+The old cast iron drain stack is completely corroded. You can see holes forming. Need to replace with PVC.,plumbing,medium,large
+"Just bought a house and the previous owner clearly did DIY plumbing. Kitchen sink has a slow leak at the P-trap, looks like they used the wrong size fittings. Water drips about every 30 seconds into the cabinet below.",plumbing,medium,small
+"Woke up to no hot water this morning. Water heater is a 50 gallon Rheem, about 12 years old. Pilot light is on but the burner won't ignite. Tried the reset button already. Family of 4 and we really need hot water.",plumbing,high,medium
+My water bill went from $60 to $180 last month with no change in usage. I can hear water running when everything is off. Pretty sure there's a slab leak somewhere. House is on a concrete foundation built in 1978.,plumbing,high,large
+Toilet in the guest bathroom has been running constantly for about 2 weeks. I replaced the flapper but it's still running. Might need a new fill valve or the whole flush mechanism.,plumbing,low,small
+"Both bathroom sinks drain super slowly. Tried Drano and a plunger, no luck. The house has old cast iron drain pipes. Might need them snaked or possibly replaced.",plumbing,medium,medium
+"Need to rough in plumbing for a new bathroom in the basement. Want a toilet, vanity sink, and shower stall. The main drain line runs through the basement ceiling about 8 feet away from where I want the bathroom.",plumbing,low,large
+"The main shutoff valve is stuck and leaking. It's a gate valve that hasn't been turned in probably 20 years. Every time I try to turn it, it leaks more. Need it replaced with a ball valve.",plumbing,medium,small
+Just discovered our water heater expansion tank is completely waterlogged. The tank feels really heavy and there's some dripping from the pressure relief valve. Water heater is only 3 years old.,plumbing,medium,small
+We have galvanized pipes throughout our 1960s ranch house and the water pressure is terrible. Takes forever to fill a bathtub. Thinking we need a whole house repipe to copper or PEX.,plumbing,low,large
+Garbage disposal is completely jammed and making a humming noise when I turn it on. Tried the hex key underneath and pressing the reset button. Think something hard fell in there.,plumbing,low,small
+Sewer line backed up again for the third time this year. Camera inspection showed tree roots have infiltrated the clay pipe about 40 feet from the house. Need at least that section replaced.,plumbing,medium,large
+Outdoor hose bib froze and burst during the cold snap last week. There's a crack in the pipe right where it goes through the foundation wall. Need it repaired before it causes more damage.,plumbing,high,small
+"Bought our first home and every room is painted in really dark colors. Want to brighten everything up with light neutrals. 3 bed 2 bath, about 1400 square feet. Ceilings are 8 feet.",painting,low,large
+The previous owners had wallpaper in the dining room and I tried removing it myself. Now the drywall underneath is torn up and looks terrible. Need someone to skim coat and paint.,painting,medium,medium
+South facing exterior wall paint is completely peeling. Tried pressure washing but the paint keeps flaking off in sheets. Suspect there's a moisture issue from the inside. About 400 sq ft of wall.,painting,medium,medium
+"Want to paint our kitchen cabinets from honey oak to white. About 30 cabinet doors plus the frames. Looking for a professional finish, not the DIY brush marks look.",painting,low,medium
+"Small bathroom ceiling has black mold spots showing through the paint. The exhaust fan doesn't vent outside, it goes into the attic. Need the mold treated and ceiling repainted properly.",painting,high,small
+"Our rental property needs to be painted before new tenants move in next week. Standard 3 bedroom ranch, walls only, about 1200 sq ft. White throughout is fine.",painting,medium,large
+"Cedar shake siding on the house hasn't been stained in over 10 years. The wood is graying and some spots look like they're starting to rot. Two story house, about 2000 sq ft of siding.",painting,medium,large
+Just had drywall patched where we removed a wall between the kitchen and living room. The patches are visible and the texture doesn't match. Need it properly textured and painted to blend in.,painting,low,small
+"Deck hasn't been stained in 5 years and the boards are starting to split. It's a 12x16 composite and wood deck with railings. Need it sanded, repaired, and stained.",painting,low,medium
+"Kids drew all over their bedroom walls with permanent marker. Tried magic erasers and alcohol but it won't come off completely. Room is about 10x10, might just need to prime and repaint.",painting,low,small
+"Had a major hailstorm last week. Insurance adjuster is coming Friday but I can see significant granule loss and several cracked shingles from the ground. Roof is about 15 years old, architectural shingles.",roofing,medium,large
+Noticed a water stain on the master bedroom ceiling after the last rain. Went into the attic and found daylight coming through near the chimney. The step flashing looks completely rusted out.,roofing,medium,small
+Our flat roof over the addition has standing water after every rain. It's been like this for a year but now I notice the ceiling underneath is starting to sag slightly. About 200 sq ft section.,roofing,high,medium
+"Getting solar panels installed next month and the installer said our roof should be replaced first since it's 18 years old. 2200 sq ft ranch, looking at architectural shingles or standing seam metal.",roofing,low,large
+Wind blew off about 20 ridge cap shingles and a few field shingles on the west slope. Can see the underlayment in some spots. No leaks yet but rain is expected this weekend.,roofing,high,medium
+"Gutters on the front of the house are pulling away from the fascia. The wood behind them is soft, probably rotted. About 40 linear feet of gutter and fascia need replacement.",roofing,medium,medium
+Ice dam formed at the edge of the roof this winter and water leaked into the second floor bedrooms. Need better attic insulation and ventilation to prevent this. Roof is only 5 years old otherwise.,roofing,medium,large
+The vent pipe boot on the roof is cracked and I can see daylight around it from the attic. It's the PVC vent for the main bathroom. Just the boot needs replacing.,roofing,medium,small
+Entire north side of the roof is covered in moss and algae. Shingles underneath look degraded. Concerned it's holding moisture and accelerating shingle deterioration. About 800 sq ft.,roofing,low,medium
+Tree fell on the garage roof during a storm. Punched a hole about 4x6 feet through the shingles and decking into the attic. Currently covered with a tarp.,roofing,emergency,large
+"Our house was built in 1965 and still has a Federal Pacific panel. Insurance company is threatening to drop us if we don't replace it. Panel is 150 amp, probably need to upgrade to 200.",electrical,medium,large
+Installed a new microwave and now the kitchen circuit trips every time we run the microwave and something else at the same time. Kitchen only has 2 circuits for everything.,electrical,medium,medium
+Found aluminum wiring in the attic when adding insulation. House was built in 1972. Home inspector flagged it. Need options for making it safe - pigtailing or rewiring.,electrical,medium,large
+Want to add 4 outdoor landscape lights along the walkway and 2 flood lights on the garage. Need them on a timer or photocell. Currently no outdoor electrical on that side of the house.,electrical,low,medium
+Bathroom GFCI outlet keeps tripping. Reset it probably 50 times in the last month. No moisture visible. Other outlets on the same circuit seem fine. Outlet is about 10 years old.,electrical,medium,small
+"Buying an EV and need a Level 2 charger installed in the garage. Panel is in the basement on the opposite side of the house, probably 60 foot run. Panel has room for a new double pole breaker.",electrical,low,medium
+The lights in the living room dim noticeably every time the AC compressor kicks on. It's been doing this since we moved in 2 years ago. Getting worse lately.,electrical,medium,medium
+"Outlet in the bedroom has scorch marks and smelled like burning plastic. Turned off the breaker immediately. House is from 1980, concerned about the wiring condition.",electrical,high,small
+Want to install a whole house surge protector and a backup generator transfer switch. Have a 200 amp panel with a couple open slots. Generator is a 7500 watt portable.,electrical,low,medium
+"During our renovation we need to add about 12 outlets, 6 can lights, and 3 dedicated circuits in the basement we're finishing. Also need smoke detectors wired in.",electrical,low,large
+"AC was working fine yesterday, today it's blowing warm air. Outdoor unit is running but there's ice forming on the refrigerant line. Thermostat set to 72 but house is at 82.",hvac,high,medium
+Furnace is 22 years old and the heat exchanger has a crack according to the tech who came for annual maintenance. He red-tagged it and said we need a new furnace ASAP. CO risk.,hvac,emergency,large
+Want to replace our window AC units with a ductless mini split system. House is a 1200 sq ft cape cod with no existing ductwork. Thinking 3-4 zones.,hvac,low,large
+"The ductwork in the crawl space is falling apart. Insulation is hanging off, connections are separated. One bedroom gets almost no airflow. Probably 80 linear feet of ductwork.",hvac,medium,large
+Thermostat says 72 but the upstairs bedrooms are easily 80+ degrees in summer. Downstairs is fine. Two story colonial with a single zone system. Maybe need a zoning system or duct modifications.,hvac,medium,medium
+"Furnace short cycles - runs for about 3 minutes then shuts off for 5. House never reaches the set temperature. Filter is clean, replaced it last week.",hvac,medium,small
+"Central AC makes a screeching metal on metal sound when it starts up then shuts off after about 10 seconds. Tried three times, same thing. It's 95 degrees out.",hvac,high,medium
+"Want to add a humidifier to our forced air system. The house gets incredibly dry in winter, static everywhere, wood floors are cracking. System is a 2 year old Carrier.",hvac,low,small
+Condensate drain line clogged on the AC air handler in the attic. Pan is full and close to overflowing onto the ceiling below. Need it cleared and a safety switch installed.,hvac,high,small
+"Our 15 year old heat pump just isn't keeping up anymore. House is 2400 sq ft, system is undersized at 3 tons. Need a properly sized replacement, probably 4-5 tons.",hvac,low,large
+"The whole house needs updating. Doors don't close right, floors creak, cabinet hinges are broken, drywall has cracks everywhere. Looking for a good handyman for a punch list of about 20 items.",general_repair,low,large
+Deck railing is rotting and wobbles when you lean on it. It's a second story deck about 8 feet off the ground. Terrified someone is going to lean on it and it'll give way.,general_repair,high,medium
+"Foundation wall in the basement has a horizontal crack about 8 feet long. Some efflorescence and a tiny bit of moisture seeping through. House is 40 years old, block foundation.",general_repair,medium,large
+The hardwood floors in the living room and hallway are badly scratched and the finish is worn through in the high traffic areas. About 400 sq ft total. Need refinishing.,general_repair,low,medium
+French doors to the patio won't close or lock properly. Big gap at the top and they swing open on their own. The frame seems to have shifted. It's a security issue at this point.,general_repair,medium,medium
+Bathroom tile floor has 3 cracked tiles and the grout is crumbling everywhere. Suspect there's water damage to the subfloor underneath based on how spongy it feels near the tub.,general_repair,medium,medium
+Need to replace the siding on the north side of the house. About 300 sq ft of vinyl siding that's cracked and warped from a hailstorm. Want to match the existing color.,general_repair,medium,medium
+Concrete front steps are crumbling. The top step has a large crack across it and pieces of concrete are falling off. Three steps plus a 4x4 landing. Safety hazard.,general_repair,high,medium
+"Squirrels got into the attic through a gap at the soffit. Need the entry point sealed, any damage assessed, and soffit vents properly screened. Can hear them running around up there.",general_repair,medium,small
+"Storm took down a 60 foot section of our 6 foot privacy fence. Posts snapped at ground level. Need the whole section rebuilt with new posts, rails, and pickets.",general_repair,high,large

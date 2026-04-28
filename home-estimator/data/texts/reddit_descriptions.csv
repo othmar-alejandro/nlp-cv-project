@@ -1,0 +1,63 @@
+text,category,urgency,scope
+"Just bought a house and the previous owner clearly did DIY plumbing. Kitchen sink has a slow leak at the P-trap, looks like they used the wrong size fittings. Water drips about every 30 seconds into the cabinet below.",plumbing,medium,small
+"Woke up to no hot water this morning. Water heater is a 50 gallon Rheem, about 12 years old. Pilot light is on but the burner won't ignite. Tried the reset button already. Family of 4 and we really need hot water.",plumbing,high,medium
+My water bill went from $60 to $180 last month with no change in usage. I can hear water running when everything is off. Pretty sure there's a slab leak somewhere. House is on a concrete foundation built in 1978.,plumbing,high,large
+Toilet in the guest bathroom has been running constantly for about 2 weeks. I replaced the flapper but it's still running. Might need a new fill valve or the whole flush mechanism.,plumbing,low,small
+"Both bathroom sinks drain super slowly. Tried Drano and a plunger, no luck. The house has old cast iron drain pipes. Might need them snaked or possibly replaced.",plumbing,medium,medium
+"Need to rough in plumbing for a new bathroom in the basement. Want a toilet, vanity sink, and shower stall. The main drain line runs through the basement ceiling about 8 feet away from where I want the bathroom.",plumbing,low,large
+"The main shutoff valve is stuck and leaking. It's a gate valve that hasn't been turned in probably 20 years. Every time I try to turn it, it leaks more. Need it replaced with a ball valve.",plumbing,medium,small
+Just discovered our water heater expansion tank is completely waterlogged. The tank feels really heavy and there's some dripping from the pressure relief valve. Water heater is only 3 years old.,plumbing,medium,small
+We have galvanized pipes throughout our 1960s ranch house and the water pressure is terrible. Takes forever to fill a bathtub. Thinking we need a whole house repipe to copper or PEX.,plumbing,low,large
+Garbage disposal is completely jammed and making a humming noise when I turn it on. Tried the hex key underneath and pressing the reset button. Think something hard fell in there.,plumbing,low,small
+Sewer line backed up again for the third time this year. Camera inspection showed tree roots have infiltrated the clay pipe about 40 feet from the house. Need at least that section replaced.,plumbing,medium,large
+Outdoor hose bib froze and burst during the cold snap last week. There's a crack in the pipe right where it goes through the foundation wall. Need it repaired before it causes more damage.,plumbing,high,small
+"Bought our first home and every room is painted in really dark colors. Want to brighten everything up with light neutrals. 3 bed 2 bath, about 1400 square feet. Ceilings are 8 feet.",painting,low,large
+The previous owners had wallpaper in the dining room and I tried removing it myself. Now the drywall underneath is torn up and looks terrible. Need someone to skim coat and paint.,painting,medium,medium
+South facing exterior wall paint is completely peeling. Tried pressure washing but the paint keeps flaking off in sheets. Suspect there's a moisture issue from the inside. About 400 sq ft of wall.,painting,medium,medium
+"Want to paint our kitchen cabinets from honey oak to white. About 30 cabinet doors plus the frames. Looking for a professional finish, not the DIY brush marks look.",painting,low,medium
+"Small bathroom ceiling has black mold spots showing through the paint. The exhaust fan doesn't vent outside, it goes into the attic. Need the mold treated and ceiling repainted properly.",painting,high,small
+"Our rental property needs to be painted before new tenants move in next week. Standard 3 bedroom ranch, walls only, about 1200 sq ft. White throughout is fine.",painting,medium,large
+"Cedar shake siding on the house hasn't been stained in over 10 years. The wood is graying and some spots look like they're starting to rot. Two story house, about 2000 sq ft of siding.",painting,medium,large
+Just had drywall patched where we removed a wall between the kitchen and living room. The patches are visible and the texture doesn't match. Need it properly textured and painted to blend in.,painting,low,small
+"Deck hasn't been stained in 5 years and the boards are starting to split. It's a 12x16 composite and wood deck with railings. Need it sanded, repaired, and stained.",painting,low,medium
+"Kids drew all over their bedroom walls with permanent marker. Tried magic erasers and alcohol but it won't come off completely. Room is about 10x10, might just need to prime and repaint.",painting,low,small
+"Had a major hailstorm last week. Insurance adjuster is coming Friday but I can see significant granule loss and several cracked shingles from the ground. Roof is about 15 years old, architectural shingles.",roofing,medium,large
+Noticed a water stain on the master bedroom ceiling after the last rain. Went into the attic and found daylight coming through near the chimney. The step flashing looks completely rusted out.,roofing,medium,small
+Our flat roof over the addition has standing water after every rain. It's been like this for a year but now I notice the ceiling underneath is starting to sag slightly. About 200 sq ft section.,roofing,high,medium
+"Getting solar panels installed next month and the installer said our roof should be replaced first since it's 18 years old. 2200 sq ft ranch, looking at architectural shingles or standing seam metal.",roofing,low,large
+Wind blew off about 20 ridge cap shingles and a few field shingles on the west slope. Can see the underlayment in some spots. No leaks yet but rain is expected this weekend.,roofing,high,medium
+"Gutters on the front of the house are pulling away from the fascia. The wood behind them is soft, probably rotted. About 40 linear feet of gutter and fascia need replacement.",roofing,medium,medium
+Ice dam formed at the edge of the roof this winter and water leaked into the second floor bedrooms. Need better attic insulation and ventilation to prevent this. Roof is only 5 years old otherwise.,roofing,medium,large
+The vent pipe boot on the roof is cracked and I can see daylight around it from the attic. It's the PVC vent for the main bathroom. Just the boot needs replacing.,roofing,medium,small
+Entire north side of the roof is covered in moss and algae. Shingles underneath look degraded. Concerned it's holding moisture and accelerating shingle deterioration. About 800 sq ft.,roofing,low,medium
+Tree fell on the garage roof during a storm. Punched a hole about 4x6 feet through the shingles and decking into the attic. Currently covered with a tarp.,roofing,emergency,large
+"Our house was built in 1965 and still has a Federal Pacific panel. Insurance company is threatening to drop us if we don't replace it. Panel is 150 amp, probably need to upgrade to 200.",electrical,medium,large
+Installed a new microwave and now the kitchen circuit trips every time we run the microwave and something else at the same time. Kitchen only has 2 circuits for everything.,electrical,medium,medium
+Found aluminum wiring in the attic when adding insulation. House was built in 1972. Home inspector flagged it. Need options for making it safe - pigtailing or rewiring.,electrical,medium,large
+Want to add 4 outdoor landscape lights along the walkway and 2 flood lights on the garage. Need them on a timer or photocell. Currently no outdoor electrical on that side of the house.,electrical,low,medium
+Bathroom GFCI outlet keeps tripping. Reset it probably 50 times in the last month. No moisture visible. Other outlets on the same circuit seem fine. Outlet is about 10 years old.,electrical,medium,small
+"Buying an EV and need a Level 2 charger installed in the garage. Panel is in the basement on the opposite side of the house, probably 60 foot run. Panel has room for a new double pole breaker.",electrical,low,medium
+The lights in the living room dim noticeably every time the AC compressor kicks on. It's been doing this since we moved in 2 years ago. Getting worse lately.,electrical,medium,medium
+"Outlet in the bedroom has scorch marks and smelled like burning plastic. Turned off the breaker immediately. House is from 1980, concerned about the wiring condition.",electrical,high,small
+Want to install a whole house surge protector and a backup generator transfer switch. Have a 200 amp panel with a couple open slots. Generator is a 7500 watt portable.,electrical,low,medium
+"During our renovation we need to add about 12 outlets, 6 can lights, and 3 dedicated circuits in the basement we're finishing. Also need smoke detectors wired in.",electrical,low,large
+"AC was working fine yesterday, today it's blowing warm air. Outdoor unit is running but there's ice forming on the refrigerant line. Thermostat set to 72 but house is at 82.",hvac,high,medium
+Furnace is 22 years old and the heat exchanger has a crack according to the tech who came for annual maintenance. He red-tagged it and said we need a new furnace ASAP. CO risk.,hvac,emergency,large
+Want to replace our window AC units with a ductless mini split system. House is a 1200 sq ft cape cod with no existing ductwork. Thinking 3-4 zones.,hvac,low,large
+"The ductwork in the crawl space is falling apart. Insulation is hanging off, connections are separated. One bedroom gets almost no airflow. Probably 80 linear feet of ductwork.",hvac,medium,large
+Thermostat says 72 but the upstairs bedrooms are easily 80+ degrees in summer. Downstairs is fine. Two story colonial with a single zone system. Maybe need a zoning system or duct modifications.,hvac,medium,medium
+"Furnace short cycles - runs for about 3 minutes then shuts off for 5. House never reaches the set temperature. Filter is clean, replaced it last week.",hvac,medium,small
+"Central AC makes a screeching metal on metal sound when it starts up then shuts off after about 10 seconds. Tried three times, same thing. It's 95 degrees out.",hvac,high,medium
+"Want to add a humidifier to our forced air system. The house gets incredibly dry in winter, static everywhere, wood floors are cracking. System is a 2 year old Carrier.",hvac,low,small
+Condensate drain line clogged on the AC air handler in the attic. Pan is full and close to overflowing onto the ceiling below. Need it cleared and a safety switch installed.,hvac,high,small
+"Our 15 year old heat pump just isn't keeping up anymore. House is 2400 sq ft, system is undersized at 3 tons. Need a properly sized replacement, probably 4-5 tons.",hvac,low,large
+"The whole house needs updating. Doors don't close right, floors creak, cabinet hinges are broken, drywall has cracks everywhere. Looking for a good handyman for a punch list of about 20 items.",general_repair,low,large
+Deck railing is rotting and wobbles when you lean on it. It's a second story deck about 8 feet off the ground. Terrified someone is going to lean on it and it'll give way.,general_repair,high,medium
+"Foundation wall in the basement has a horizontal crack about 8 feet long. Some efflorescence and a tiny bit of moisture seeping through. House is 40 years old, block foundation.",general_repair,medium,large
+The hardwood floors in the living room and hallway are badly scratched and the finish is worn through in the high traffic areas. About 400 sq ft total. Need refinishing.,general_repair,low,medium
+French doors to the patio won't close or lock properly. Big gap at the top and they swing open on their own. The frame seems to have shifted. It's a security issue at this point.,general_repair,medium,medium
+Bathroom tile floor has 3 cracked tiles and the grout is crumbling everywhere. Suspect there's water damage to the subfloor underneath based on how spongy it feels near the tub.,general_repair,medium,medium
+Need to replace the siding on the north side of the house. About 300 sq ft of vinyl siding that's cracked and warped from a hailstorm. Want to match the existing color.,general_repair,medium,medium
+Concrete front steps are crumbling. The top step has a large crack across it and pieces of concrete are falling off. Three steps plus a 4x4 landing. Safety hazard.,general_repair,high,medium
+"Squirrels got into the attic through a gap at the soffit. Need the entry point sealed, any damage assessed, and soffit vents properly screened. Can hear them running around up there.",general_repair,medium,small
+"Storm took down a 60 foot section of our 6 foot privacy fence. Posts snapped at ground level. Need the whole section rebuilt with new posts, rails, and pickets.",general_repair,high,large

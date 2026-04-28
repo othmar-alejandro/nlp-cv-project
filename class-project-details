@@ -1,0 +1,298 @@
+Final Project Report Rubric 
+Computer Vision and Natural Language Processing  
+
+Final Project Scope and Rubric 
+
+This rubric applies to the final project in both Introduction to Computer Vision and Introduction to Natural Language Processing. 
+ 
+Students are expected to complete one project aligned with the primary focus of their enrolled course. 
+ 
+Students enrolled in both courses may optionally submit a combined project integrating both domains, but this is not required. 
+ 
+All projects are evaluated using the same rubric, with grading based on clarity of reasoning, appropriate methodology, analysis, and reflection. 
+
+Title Page and Abstract (5 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Professional title page and a concise, technical abstract accurately summarizing the project. 
+
+5 
+
+Satisfactory 
+
+Abstract present but incomplete or vague. 
+
+3–4 
+
+Insufficient 
+
+Missing or non-technical abstract. 
+
+0–2 
+
+1. Introduction and Motivation (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Clear problem definition, strong motivation, and well-scoped objective. 
+
+9–10 
+
+Satisfactory 
+
+Problem stated but motivation or scope is weak. 
+
+7–8 
+
+Insufficient 
+
+Unclear or poorly defined problem. 
+
+0–6 
+
+2. Objectives and System Overview (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Explicit objectives and clear system or methodological overview. 
+
+9–10 
+
+Satisfactory 
+
+Objectives present but system explanation lacks clarity. 
+
+7–8 
+
+Insufficient 
+
+Objectives or overview missing. 
+
+0–6 
+
+3. Explored Approaches and Design Choices (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Multiple approaches discussed with sound justification for final choice. 
+
+9–10 
+
+Satisfactory 
+
+Limited discussion of alternatives. 
+
+7–8 
+
+Insufficient 
+
+Single approach presented with no justification. 
+
+0–6 
+
+4. Dataset Description (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Dataset source, structure, and splits clearly documented. 
+
+9–10 
+
+Satisfactory 
+
+Basic dataset description provided. 
+
+7–8 
+
+Insufficient 
+
+Dataset poorly described or unclear. 
+
+0–6 
+
+5. Exploratory Data Analysis (EDA) (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Meaningful EDA with visualizations and insights. 
+
+9–10 
+
+Satisfactory 
+
+Minimal EDA with limited interpretation. 
+
+7–8 
+
+Insufficient 
+
+Little or no EDA. 
+
+0–6 
+
+6. Data Processing and Preparation (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Clear and justified preprocessing and preparation steps. 
+
+9–10 
+
+Satisfactory 
+
+Preprocessing steps listed with weak justification. 
+
+7–8 
+
+Insufficient 
+
+Processing steps unclear or missing. 
+
+0–6 
+
+7. Modeling and Training (15 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Well-justified model architecture and training setup. 
+
+14–15 
+
+Satisfactory 
+
+Reasonable model with limited explanation. 
+
+11–13 
+
+Insufficient 
+
+Model inappropriate or poorly explained. 
+
+0–10 
+
+8. Performance Metrics and Results (15 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Appropriate metrics with clear interpretation and analysis. 
+
+14–15 
+
+Satisfactory 
+
+Metrics presented with limited discussion. 
+
+11–13 
+
+Insufficient 
+
+Metrics missing or misused. 
+
+0–10 
+
+9. Challenges, Limitations, and Conclusion (10 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Thoughtful reflection and realistic discussion of limitations. 
+
+9–10 
+
+Satisfactory 
+
+General reflection with limited depth. 
+
+7–8 
+
+Insufficient 
+
+Minimal or missing reflection. 
+
+0–6 
+
+10. Writing Quality and References (5 points) 
+
+Level 
+
+Description 
+
+Score Range 
+
+Excellent 
+
+Clear, professional writing with proper citations. 
+
+5 
+
+Satisfactory 
+
+Minor writing or citation issues. 
+
+4 
+
+Insufficient 
+
+Disorganized or unclear writing. 
+
+0–3 
